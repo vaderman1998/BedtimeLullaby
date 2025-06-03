@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Sleep Timer</string>
+    <string name="set_timer">Set Timer</string>
+    <string name="stop_timer">Stop Timer</string>
+    <string name="sleep_sounds">Sleep Sounds</string>
+    <string name="timer_duration">Set Timer Duration</string>
+    <string name="start">Start</string>
+    <string name="cancel">Cancel</string>
+    <string name="minutes">%d minutes</string>
+</resources> 

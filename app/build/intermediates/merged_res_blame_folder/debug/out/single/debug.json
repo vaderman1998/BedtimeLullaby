@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "C:\\Users\\Brandon\\.gradle\\daemon\\8.2\\com.example.sleeptimer.app-merged_res-51:\\raw_toy_box.mp3.flat",
+        "source": "C:\\Users\\Brandon\\.gradle\\daemon\\8.2\\com.example.sleeptimer.app-main-53:\\raw\\toy_box.mp3"
+    },
+    {
+        "merged": "C:\\Users\\Brandon\\.gradle\\daemon\\8.2\\com.example.sleeptimer.app-merged_res-51:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Brandon\\.gradle\\daemon\\8.2\\com.example.sleeptimer.app-main-53:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Brandon\\.gradle\\daemon\\8.2\\com.example.sleeptimer.app-merged_res-51:\\raw_ocean.mp3.flat",
+        "source": "C:\\Users\\Brandon\\.gradle\\daemon\\8.2\\com.example.sleeptimer.app-main-53:\\raw\\ocean.mp3"
+    },
+    {
+        "merged": "C:\\Users\\Brandon\\.gradle\\daemon\\8.2\\com.example.sleeptimer.app-merged_res-51:\\raw_rain.mp3.flat",
+        "source": "C:\\Users\\Brandon\\.gradle\\daemon\\8.2\\com.example.sleeptimer.app-main-53:\\raw\\rain.mp3"
+    },
+    {
+        "merged": "C:\\Users\\Brandon\\.gradle\\daemon\\8.2\\com.example.sleeptimer.app-merged_res-51:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Brandon\\.gradle\\daemon\\8.2\\com.example.sleeptimer.app-main-53:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Brandon\\.gradle\\daemon\\8.2\\com.example.sleeptimer.app-merged_res-51:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Brandon\\.gradle\\daemon\\8.2\\com.example.sleeptimer.app-main-53:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.sleeptimer.app-merged_res-51:/raw_lullaby2.mp3.flat",
+        "source": "com.example.sleeptimer.app-main-53:/raw/lullaby2.mp3"
+    },
+    {
+        "merged": "com.example.sleeptimer.app-merged_res-51:/raw_lullaby1.mp3.flat",
+        "source": "com.example.sleeptimer.app-main-53:/raw/lullaby1.mp3"
+    },
+    {
+        "merged": "C:\\Users\\Brandon\\.gradle\\daemon\\8.2\\com.example.sleeptimer.app-merged_res-51:\\raw_forest.mp3.flat",
+        "source": "C:\\Users\\Brandon\\.gradle\\daemon\\8.2\\com.example.sleeptimer.app-main-53:\\raw\\forest.mp3"
+    }
+]

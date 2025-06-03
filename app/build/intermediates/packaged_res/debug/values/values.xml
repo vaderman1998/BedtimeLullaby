@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ic_launcher_background">#1A237E</color>
+    <string name="app_name">Sleep Timer</string>
+    <string name="cancel">Cancel</string>
+    <string name="minutes">%d minutes</string>
+    <string name="set_timer">Set Timer</string>
+    <string name="sleep_sounds">Sleep Sounds</string>
+    <string name="start">Start</string>
+    <string name="stop_timer">Stop Timer</string>
+    <string name="timer_duration">Set Timer Duration</string>
+    <style name="Theme.SleepTimer" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+    </style>
+</resources>
